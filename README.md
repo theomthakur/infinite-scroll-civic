@@ -4,6 +4,13 @@ This is a simple **Next.js + TypeScript** application that demonstrates infinite
 
 ---
 
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/5a8b73cf-98c6-46d0-91ee-64718ac6c0af)
+" alt="App Screenshot" width="700" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 - **Next.js (App Router)**
@@ -20,6 +27,3 @@ This is a simple **Next.js + TypeScript** application that demonstrates infinite
 git clone https://github.com/theomthakur/infinite-scroll-civic.git
 npm install
 npm run dev
-
----
-
